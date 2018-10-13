@@ -1,0 +1,3 @@
+Mecabのインストール時、64ビットの場合は注意する
+https://github.com/ikegami-yukino/mecab/releases
+ここからインストールしたものを使おう
